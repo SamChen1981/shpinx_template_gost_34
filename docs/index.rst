@@ -12,7 +12,7 @@ ASU
 .. toctree::
    :maxdepth: 4
 
-   TZ.rst
+   tz.rst
    
 Ссылки и таблицы
 ==================

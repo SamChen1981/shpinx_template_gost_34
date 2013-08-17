@@ -3,19 +3,19 @@
 Техническое задание на разработку ASU
 =====================================
 
-.. toctree::
-   :maxdepth: 4
-   :numbered:
- 
-   ТЗ - Общие сведения.rst
-   ТЗ - Назначение и цели создания системы.rst
-   ТЗ - Характеристика объектов автоматизации.rst
-   ТЗ - Требования к системе.rst
-   ТЗ - Состав и содержание работ по созданию системы.rst
-   ТЗ - Порядок контроля и приемки работ.rst
-   ТЗ - Требования к составу и содержанию работ по подготовке.rst
-   ТЗ - Требования к документированию.rst
-   ТЗ - Источники разработки.rst
+..  toctree::
+    :maxdepth: 4
+    :numbered:
+
+    tz-obschie_svedeniya.rst
+    tz-naznachenie_i_tseli.rst
+    tz-charakteristika_objectov.rst
+    tz-trebovaniya_k_sisteme.rst
+    tz-sostav_i_soderjanie_rabot.rst
+    tz-poryadok_kontrolya_i_priemki.rst
+    tz-trebovania_k_sostavu_i_soderjaniu.rst
+    tz-trebovaniya_k_documentirovaniu.rst
+    tz-istochniki_razrabotki.rst
 
 
 
