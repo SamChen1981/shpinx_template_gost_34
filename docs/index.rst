@@ -1,16 +1,20 @@
 ASU
 =====================================
+:Автор: Alexey Brilenkov <alexey.brilenkov@gmail.com>
+:Исходный код: TBD
+:Релиз: |today|
+:Версия: |release|
 
 .. topic:: Описание
 
-   aaa 
-    
+    .. include:: about.rst
+
 .. toctree::
    :maxdepth: 4
 
-   TZ.rst
+   ТЗ.rst
    
-links and tables
+Ссылки и таблицы
 ==================
 * :ref:`genindex`
 * :ref:`modindex`
