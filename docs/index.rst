@@ -3,7 +3,6 @@ ASU
 
 .. topic:: descr
 
-    .. include:: about.rst
 
 .. toctree::
    :maxdepth: 4
