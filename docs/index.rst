@@ -1,11 +1,7 @@
 ASU
 =====================================
-:Автор: Alexey Brilenkov <alexey.brilenkov@gmail.com>
-:Исходный код: TBD
-:Релиз: |today|
-:Версия: |release|
 
-.. topic:: Описание
+.. topic:: descr
 
     .. include:: about.rst
 
@@ -14,7 +10,7 @@ ASU
 
    TZ.rst
    
-Ссылки и таблицы
+links and tables
 ==================
 * :ref:`genindex`
 * :ref:`modindex`
